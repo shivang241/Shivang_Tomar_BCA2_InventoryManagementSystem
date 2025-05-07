@@ -4,6 +4,7 @@ MAJOR PROJECT
 PROJECT TITLE- Inventory Management System
 
 TEAM MEMBERS:-
+
 1.Shivang Tomar
     roll no.2401201069
     course- BCA AI&DS
